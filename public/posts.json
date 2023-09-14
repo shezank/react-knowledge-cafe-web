@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/MRsQ20y/jess-bailey-y7-Gl-Id-TUOvo-unsplash.jpg",
+      "title": "Lorem Ipsum: The Art of Filler Text",
+      "author_img": "https://i.ibb.co/DzWBSpF/girl2.jpg",
+      "author": "John Doe",
+      "post_date": "2023-09-12",
+      "reading_time": 5,
+      "hashtags": ["LoremIpsum", "Typography", "Design"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/wrf7Hq2/glenn-carstens-peters-RLw-UC03-Gwc-unsplash.jpg",
+      "title": "Exploring Virtual Reality: A Journey Beyond Reality",
+      "author_img": "https://i.ibb.co/k6BHrqF/girl1.jpg",
+      "author": "Jane Smith",
+      "post_date": "2023-09-11",
+      "reading_time": 8,
+      "hashtags": ["VirtualReality", "Technology", "Immersive"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/yQHbPbH/cathryn-lavery-f-MD-Cru6-OTk-unsplash.jpg",
+      "title": "The Culinary Delights of Fusion Cuisine",
+      "author_img": "https://i.ibb.co/M6CQhyz/boy1.png",
+      "author": "Alice Johnson",
+      "post_date": "2023-09-10",
+      "reading_time": 6,
+      "hashtags": ["Foodie", "Cuisine", "FusionFood"]
+    },
+    
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/Chx9cHs/damian-zaleski-RYyr-k3-Ysqg-unsplash.jpg",
+      "title": "Mindfulness Meditation: Finding Inner Peace",
+      "author_img": "https://i.ibb.co/M6CQhyz/boy2.png",
+      "author": "David Williams",
+      "post_date": "2023-09-09",
+      "reading_time": 7,
+      "hashtags": ["Mindfulness", "Meditation", "Wellness"]
+    }
+  ]
+  
